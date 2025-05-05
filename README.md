@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-## Olá! <br><br>Sou um Nerd amante da tecnologia, que começou a se aventurar nesse universo de conhecimento!<br><br>- Estou trabalhando na DBC Company<br>- Pronomes: ele/dele
+## Olá! <br><br>QA, Nerd, amante da tecnologia, que começou a se aventurar nesse universo de conhecimento!<br><br>- Estou trabalhando na DBC Company<br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
